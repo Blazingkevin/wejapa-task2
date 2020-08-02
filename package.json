@@ -1,0 +1,11 @@
+{
+  "name": "noteapp",
+  "version": "1.0.0",
+  "description": "simple note app using http module and the file system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Kevin Uti",
+  "license": "ISC"
+}
